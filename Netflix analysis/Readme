@@ -1,3 +1,2 @@
-This project focuses on use of matplotlib and pandas to get the information from Netflix database about:
-- Netflix movie durations from 2011-2020
-- Movie duration by year of release with differentation between: Children, Documentaries, Stand-up and genres
+This project focuses on using the pandas and matplotlib libraries to extract information from the Netflix database.
+ The tool analyzes the duration of Netflix movies from 2011 to 2020, and classifies them into categories such as children's movies, documentaries, stand-up, and genres.
